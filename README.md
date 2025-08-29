@@ -17,7 +17,6 @@ Ce dépôt regroupe les travaux pratiques réalisés dans le cadre du module **O
 - Backtracking
 - Branch & Bound
 
-**Script** :
 
 ---
 
@@ -27,7 +26,6 @@ Ce dépôt regroupe les travaux pratiques réalisés dans le cadre du module **O
 - Algorithme glouton (Greedy Coloring)
 - Recherche locale simple
 
-**Script** :
 
 ---
 
@@ -37,7 +35,6 @@ Ce dépôt regroupe les travaux pratiques réalisés dans le cadre du module **O
 - Recuit simulé (*Simulated Annealing*)
 - Recherche Tabou (*Tabu Search*)
 
-**Script** :
 
 ---
 
@@ -47,6 +44,5 @@ Ce dépôt regroupe les travaux pratiques réalisés dans le cadre du module **O
 - Sélection basée sur performance
 - Génération automatique de règles
 
-**Script** :
 
 
